@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InventorySlot
+  - Fader
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - characters
+  - ground
+  - obstacles
+  - Shadows
+  - Marks
+  - Items
+  - Dialog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: lowerTrees
+    uniqueID: 2243066841
+    locked: 0
+  - name: ground
+    uniqueID: 1770869017
+    locked: 0
+  - name: LowerProps
+    uniqueID: 992293989
+    locked: 0
+  - name: other characters
+    uniqueID: 1068710421
+    locked: 0
+  - name: Hightfloor
+    uniqueID: 3883256777
+    locked: 0
+  - name: player
+    uniqueID: 1982556985
+    locked: 0
+  - name: UpperProps
+    uniqueID: 4045359157
+    locked: 0
+  - name: Trees
+    uniqueID: 335118355
+    locked: 0
+  - name: Lights
+    uniqueID: 1562307525
+    locked: 0
