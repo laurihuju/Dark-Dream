@@ -54,5 +54,5 @@ This project is a 2D horror adventure game made in a team of three people. The l
 ## The Development of the Game
 
 - The game was made in eight weeks (including the designing).
-- The graphic assets used in the project were mainly free assets downloaded from the internet. Some assets were made by one of our team members.
+- The graphic assets used in the project were mainly free assets downloaded from the internet. Some assets were made by one of our team members and the inventory menu UI assets were made by me.
 - All the sounds in the game are free assets from the internet.
